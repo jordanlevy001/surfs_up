@@ -16,7 +16,7 @@ There are three key differences in temperature trends between June and December:
 
 ## Summary
 High level summary of results
-Overall, the month of June is warmer, but December is not much colder than June. The average temperature in December is only slightly lower (~4°F) than in June.
+Overall, the month of June is warmer, but December is not much colder than June. The average temperature in December is only slightly lower (~4°F) than in June. While December is slightly cooler on average, most days in December were still 69°F or higher.
 
 
 
