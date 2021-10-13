@@ -4,7 +4,7 @@
 The purpose of this project is to analyze the temperature in Oahu during the month of June and December (over multiple years), to understand if a surf and ice cream shop will be successful year-round. Weather/temperature influences the demand for ice cream and the desire to surf and thus we need to compare the weather in the summer (June) and winter (December) months.
 
 ## Results
-There are three key differences in temperature between June and December:
+There are three key differences in temperature trends between June and December:
 - The average temperature in June is higher (75°F) than in December (71°F)
 - The minimum temperature in June is higher (64°F) than in December (56°F)
 - The maximum temperature in June is higher (85°F) than in December (83°F)
@@ -16,5 +16,9 @@ There are three key differences in temperature between June and December:
 
 ## Summary
 High level summary of results
+Overall, the month of June is warmer, but December is not much colder than June. The average temperature in December is only slightly lower (~4°F) than in June.
+
+
+
 Two additional queries to perform to gather more weather data for June and December
 
