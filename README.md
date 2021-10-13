@@ -1,4 +1,4 @@
-# Comparing Temperature in Oahu in June and December
+# Oahu Weather Analysis
 
 ## Overview of the Analysis
 The purpose of this analysis
