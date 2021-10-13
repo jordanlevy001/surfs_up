@@ -1,4 +1,4 @@
-# Surfs Up
+# Comparing Temperature in Oahu in June and December
 
 ## Overview of the Analysis
 The purpose of this analysis
